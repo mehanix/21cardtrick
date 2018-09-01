@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1515796710 source:c:\users\neham\desktop\21cards_v2\main.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+	<algorithm>
+
